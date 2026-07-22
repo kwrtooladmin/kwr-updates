@@ -1,6 +1,6 @@
 {
-    "version": "5.1.2",
-    "message": "You are on the latest version.",
-    "zipUrl": "https://raw.githubusercontent.com/kwrtooladmin/kwr-updates/main/kwr-5.1.2.zip",
-    "sha256": "5dd51248b48923827cb58610d2020ac0c2148fac5c7fc31c853ef425808e5c50"
+    "version":  "5.2.0",
+    "message":  "You are on the latest version.",
+    "zipUrl":  "https://raw.githubusercontent.com/kwrtooladmin/kwr-updates/main/kwr-5.2.0.zip",
+    "sha256":  "5d26d22f44d1a45fd3e4ce4c1c8d3f0b38570203721fbff33405dba0389418d8"
 }
